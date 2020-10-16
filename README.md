@@ -8,7 +8,7 @@
 
 Please replace the downloaded exe file link in the line 21 of AmazonWebsiteTest.java
 eg: if the file is in C:\ProgramFiles\Chrome, please add it as 
-"C://ProgramFiles//Chrome/chromedriver.exe"
+"C://ProgramFiles//Chrome//chromedriver.exe"
 
 #### Right click the file and  run the java class.
 
